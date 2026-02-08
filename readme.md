@@ -241,6 +241,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes. ![Dollar][mon]
 - [Pika](https://superhighfives.com/pika) - An open-source colour picker app for macOS. ![Open Source][oss]
 - [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon] 5 Stars
+- [Colorframe](https://colorframe.net/) - Essential color picker for macOS ![Dollar][mon]
 
 ### Communication
 
